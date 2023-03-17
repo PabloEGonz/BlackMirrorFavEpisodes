@@ -6,6 +6,9 @@ body{
     justify-content: center;
     align-items: center;
 }
+ul{
+    list-style-type:circle;
+}
 h1{
     font-size:40px;
 }
