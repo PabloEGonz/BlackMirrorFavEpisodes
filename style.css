@@ -3,11 +3,11 @@ body{
     display: flex;
     flex-direction: column;
     background-color:rgb(213, 235, 250);
-    justify-content: center;
+   
     align-items: center;
 }
 p{
-    text-align: center;
+    
     padding: 2% 5% 2% 5%;
     
 }
@@ -23,7 +23,7 @@ h3{
     color:rgb(69, 6, 186);
 }
 h4{
-    font-size:20px;
+    
     font-family: cursive ;
     color:rgb(94, 189, 85);
 }
@@ -33,5 +33,5 @@ h4 a{
     text-decoration: none;
 }
 img{
-    height: 30vh;
+    height: 27dvw;
 }
