@@ -16,19 +16,26 @@ ul{
 h1{
     font-size: 4dvw;
 }
+h2{
+    font-size: 3.6dvw;
+
+}
 h3{
     font-size: 3.4dvw;
     color:rgb(252, 250, 255);
     text-shadow: 2px 2px 3px rgb(4, 0, 0);
 }
 h4{
-    font-family: cursive ;
+    font-size: 2dvw;
+    font-family: Georgia, Times, 'Times New Roman', serif;
     color:rgb(94, 189, 85);
 }
 h5{
 }
 h4 a{
+    font-size: 1.5dvw;
     text-decoration: none;
+    color: blue;
 }
 img{
     height: 27dvw;
